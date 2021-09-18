@@ -1,0 +1,1 @@
+<div id="logo"><a href="<%=Webmuen%>index.asp"><img src="<%=Webmuen%>img/logo.png" width="220" height="60" /></a></div>
